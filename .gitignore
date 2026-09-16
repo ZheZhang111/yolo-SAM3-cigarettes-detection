@@ -1,0 +1,33 @@
+# Datasets (do not upload)
+dataset/
+merged_dataset/
+**/Cigarette*/**
+**/*.v1i.yolov8/
+
+# Local conda env & caches
+.conda/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Weights & partial downloads
+*.pt
+*.onnx
+*.part
+weights/
+
+# Training / run outputs (large)
+runs/
+
+# Logs
+*.log
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
