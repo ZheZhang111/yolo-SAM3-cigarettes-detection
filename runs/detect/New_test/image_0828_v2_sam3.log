@@ -1,0 +1,27 @@
+checkpoint: /data/zhangzhe/do-as-i-do/reconstruction/checkpoints/sam3/sam3.pt
+device    : cuda
+images    : 3
+output    : /data/zhangzhe/Yolo_Cigarettes_dectection/runs/detect/New_test/image_0828_v2_sam3
+
+3a901419830a64008f4202477923ee68.jpg
+  cigarette pack   -> (none)
+  lighter          conf=0.831  box=(610,236,762,480)
+  cigarette        -> (none)
+  cigarette butt   -> (none)
+  saved: /data/zhangzhe/Yolo_Cigarettes_dectection/runs/detect/New_test/image_0828_v2_sam3/3a901419830a64008f4202477923ee68_sam3.jpg
+
+8113e3c0d97d6159a23babf7ae8ea836.jpg
+  cigarette pack   -> (none)
+  lighter          conf=0.744  box=(361,232,498,480)
+  cigarette        -> (none)
+  cigarette butt   -> (none)
+  saved: /data/zhangzhe/Yolo_Cigarettes_dectection/runs/detect/New_test/image_0828_v2_sam3/8113e3c0d97d6159a23babf7ae8ea836_sam3.jpg
+
+a086b052a43e284745a58653457a739a.jpg
+  cigarette pack   -> (none)
+  lighter          conf=0.945  box=(359,282,722,479)
+  cigarette        -> (none)
+  cigarette butt   -> (none)
+  saved: /data/zhangzhe/Yolo_Cigarettes_dectection/runs/detect/New_test/image_0828_v2_sam3/a086b052a43e284745a58653457a739a_sam3.jpg
+
+Done.

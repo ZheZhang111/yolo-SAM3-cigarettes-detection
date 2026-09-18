@@ -1,0 +1,22 @@
+checkpoint: /data/zhangzhe/do-as-i-do/reconstruction/checkpoints/sam3/sam3.pt
+images    : 3 from New_test/image_0901
+output    : runs/detect/New_test/image_0901_sam3
+
+0242533a2989582a8c1723aa84424013.png
+  lighter              conf=0.566 box=(495,352,782,644)
+  lighter              conf=0.584 box=(790,275,862,470)
+  pack (all prompts)   -> none
+  saved: runs/detect/New_test/image_0901_sam3/0242533a2989582a8c1723aa84424013_sam3.jpg
+
+go2_photo_20260901_143512_519.jpg
+  lighter              conf=0.904 box=(680,417,782,620)
+  gold cigarette pack  conf=0.888 box=(889,469,1201,715)
+  saved: runs/detect/New_test/image_0901_sam3/go2_photo_20260901_143512_519_sam3.jpg
+
+go2_photo_20260901_144048_586.jpg
+  lighter              conf=0.430 box=(495,352,782,644)
+  lighter              conf=0.638 box=(790,275,862,469)
+  pack (all prompts)   -> none
+  saved: runs/detect/New_test/image_0901_sam3/go2_photo_20260901_144048_586_sam3.jpg
+
+Done.

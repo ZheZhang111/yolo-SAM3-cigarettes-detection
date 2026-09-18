@@ -1,0 +1,15 @@
+cfda8693-beb6-49d8-a967-bad3debdee29.png
+  [绝缘层损坏]
+  绝缘破损     conf=91% prompt='bare copper strands' box=(1094,679,1534,947)
+  saved: runs/detect/New_test/sam3_multi_wire/cfda8693-beb6-49d8-a967-bad3debdee29_sam3_multi.jpg
+
+f925bac6-07be-47fd-bc88-4193e9a46006.png
+  [绝缘层损坏]
+  绝缘破损     conf=56% prompt='bare copper strands' box=(375,154,444,184)
+  saved: runs/detect/New_test/sam3_multi_wire/f925bac6-07be-47fd-bc88-4193e9a46006_sam3_multi.jpg
+
+微信图片_2026-09-07_192637_532.png
+  [绝缘层损坏]
+  绝缘破损     conf=45% prompt='exposed wires' box=(275,137,521,258)
+  saved: runs/detect/New_test/sam3_multi_wire/微信图片_2026-09-07_192637_532_sam3_multi.jpg
+

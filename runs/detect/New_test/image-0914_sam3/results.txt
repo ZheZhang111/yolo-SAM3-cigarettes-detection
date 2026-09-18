@@ -1,0 +1,5 @@
+烟雾jpg.jpg
+  [检出:烟雾]
+  烟雾       conf=38% prompt='smoke' box=(6,4,1503,1493)
+  saved: runs/detect/New_test/image-0914_sam3/烟雾jpg_sam3_multi.jpg
+

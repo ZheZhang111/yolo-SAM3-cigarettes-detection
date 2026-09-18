@@ -1,0 +1,12 @@
+1ceaf6370ca04f36734cadacf78a5735.jpg
+  打火机    (lighter) conf=97% box=(569,532,760,1051)
+  烟盒     (gold cigarette pack) conf=92% box=(347,654,957,1062)
+
+go2_photo_20260901_171147_832.jpg
+  打火机    (lighter) conf=31% box=(1364,795,1630,972)
+  烟盒     (red cigarette pack) conf=84% box=(920,467,1279,766)
+
+go2_photo_20260901_171219_049.jpg
+  打火机    (lighter) conf=79% box=(952,698,1111,956)
+  烟盒     (red cigarette pack) conf=83% box=(749,461,1095,757)
+

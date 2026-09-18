@@ -1,0 +1,4 @@
+img_v3_0215j_1410c89d-6148-4e41-a15a-d962b9ceb64g.jpg
+  (no detections)
+  saved: runs/detect/New_test/image_0916_sam3_new/img_v3_0215j_1410c89d-6148-4e41-a15a-d962b9ceb64g_sam3_multi.jpg
+

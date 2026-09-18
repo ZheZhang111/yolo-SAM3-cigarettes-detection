@@ -1,0 +1,16 @@
+go2_photo_20260916_175614_673.jpg
+  打火机      conf=93% prompt='cigarette lighter' box=(299,114,549,252)
+  烟盒       conf=26% prompt='cigarette box' box=(169,-1,428,282)
+  烟盒       conf=26% prompt='cigarette box' box=(422,85,616,373)
+  saved: runs/detect/New_test/image_0916_sam3/go2_photo_20260916_175614_673_sam3_multi.jpg
+
+go2_photo_20260916_175651_801.jpg
+  烟盒       conf=29% prompt='red cigarette pack' box=(343,49,640,360)
+  烟盒       conf=26% prompt='cigarette box' box=(165,-1,429,284)
+  saved: runs/detect/New_test/image_0916_sam3/go2_photo_20260916_175651_801_sam3_multi.jpg
+
+go2_photo_20260916_175702_980.jpg
+  打火机      conf=88% prompt='cigarette lighter' box=(447,63,562,269)
+  烟盒       conf=58% prompt='cigarette box' box=(163,-1,401,276)
+  saved: runs/detect/New_test/image_0916_sam3/go2_photo_20260916_175702_980_sam3_multi.jpg
+

@@ -20,7 +20,12 @@ venv/
 weights/
 
 # Training / run outputs (large)
-runs/
+runs/*
+# Allow only New_test experiment outputs
+!runs/detect/
+runs/detect/*
+!runs/detect/New_test/
+!runs/detect/New_test/**
 
 # Logs
 *.log

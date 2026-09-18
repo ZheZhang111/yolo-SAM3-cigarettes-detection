@@ -1,0 +1,4 @@
+img_v3_0215j_1410c89d-6148-4e41-a15a-d962b9ceb64g.jpg
+  烟盒       conf=16% prompt='cigarette pack' box=(501,431,724,577)
+  saved: runs/detect/New_test/image_0916_sam3_new_conf010/img_v3_0215j_1410c89d-6148-4e41-a15a-d962b9ceb64g_sam3_multi.jpg
+

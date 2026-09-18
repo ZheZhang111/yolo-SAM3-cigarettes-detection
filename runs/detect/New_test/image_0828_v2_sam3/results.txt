@@ -1,0 +1,12 @@
+3a901419830a64008f4202477923ee68.jpg
+  lighter              conf=0.831 box=(609,235,761,480)
+  red cigarette pack   conf=0.268 box=(485,264,893,489)
+
+8113e3c0d97d6159a23babf7ae8ea836.jpg
+  lighter              conf=0.744 box=(361,232,498,479)
+  red cigarette pack   conf=0.731 box=(597,188,987,519)
+
+a086b052a43e284745a58653457a739a.jpg
+  lighter              conf=0.945 box=(358,282,722,479)
+  red cigarette pack   conf=0.620 box=(364,103,813,376)
+

@@ -1,0 +1,18 @@
+1ceaf6370ca04f36734cadacf78a5735.jpg
+  [未检出绝缘破损]
+  打火机      conf=97% prompt='cigarette lighter' box=(569,532,760,1051)
+  烟盒       conf=92% prompt='gold cigarette pack' box=(347,654,957,1062)
+  saved: runs/detect/New_test/sam3_multi_cig/1ceaf6370ca04f36734cadacf78a5735_sam3_multi.jpg
+
+go2_photo_20260901_171147_832.jpg
+  [未检出绝缘破损]
+  烟盒       conf=84% prompt='red cigarette pack' box=(920,467,1279,766)
+  打火机      conf=31% prompt='lighter' box=(1364,795,1630,972)
+  saved: runs/detect/New_test/sam3_multi_cig/go2_photo_20260901_171147_832_sam3_multi.jpg
+
+go2_photo_20260901_171219_049.jpg
+  [未检出绝缘破损]
+  烟盒       conf=83% prompt='red cigarette pack' box=(749,461,1095,757)
+  打火机      conf=79% prompt='lighter' box=(952,698,1111,956)
+  saved: runs/detect/New_test/sam3_multi_cig/go2_photo_20260901_171219_049_sam3_multi.jpg
+
